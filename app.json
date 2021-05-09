@@ -1,0 +1,12 @@
+{
+  "name": "weight-calculator",
+  "displayName": "weight-calculator",
+  "expo": {
+    "name": "weight-calculator",
+    "slug": "weight-calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
