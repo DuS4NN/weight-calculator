@@ -1,0 +1,6 @@
+{
+  "name": "app",
+  "devDependencies": {
+    "expo-font": "^9.1.0"
+  }
+}

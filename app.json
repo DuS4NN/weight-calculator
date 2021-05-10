@@ -1,12 +1,20 @@
 {
-  "name": "weight-calculator",
-  "displayName": "weight-calculator",
   "expo": {
-    "name": "weight-calculator",
+    "name": "Weight Calculator",
     "slug": "weight-calculator",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1b262c"
+    },
     "version": "1.0.0",
+    "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "calculator.src"
+    }
   }
 }
